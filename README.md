@@ -14,10 +14,12 @@
 
 ## Sample Output
 Enter a number: 4
+
 4 is even.
 
 ## Author
 Name: Mila Elise Otero
+
 Section: 8 - Dahlia
 
 
